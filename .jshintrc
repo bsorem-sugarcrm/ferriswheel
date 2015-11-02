@@ -1,0 +1,15 @@
+{
+  "indent"        : 2,
+  "quotmark"      : true,
+  "strict"        : true,
+  "maxdepth"      : 5,
+  "maxstatements" : 100,
+  "maxlen"        : 100,
+  "es5"           : true,
+  "esnext"        : true,
+  "globalstrict"  : true,
+
+  "browser"       : true,
+  "devel"         : true,
+  "node"          : true
+}
