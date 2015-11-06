@@ -13,8 +13,10 @@
   },
   "homepage": "https://github.com/bsorem-sugarcrm/ferriswheel",
   "dependencies": {
+    "async": "^1.5.0",
     "aws-sdk": "^2.2.13",
     "express": "^4.13.3",
-    "imagemin": "^4.0.0"
+    "imagemin": "^4.0.0",
+    "multer": "^1.1.0"
   }
 }

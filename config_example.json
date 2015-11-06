@@ -1,0 +1,21 @@
+{
+  "compress": {
+    "field": "file",
+    "maxupload": 25,
+    "tmp": "uploads/",
+    "dest": "files/"
+  },
+  "aws": {
+    "accessKeyId": "<ACCESS>",
+    "secretAccessKey": "<SECRET>",
+    "region": "<REGION>",
+    "bucket": "<BUCKETNAME>",
+    "sslEnabled": true,
+    "maxRetries": 5,
+    "rejectUnauthorized": true
+  },
+  "whitelist": [
+    "::1",
+    "::127.0.0.1"
+  ]
+}
